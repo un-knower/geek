@@ -3,8 +3,7 @@ package com.tzp.T.thinkjava.Chapter02;
 /***
  * 
  * @author Administrator
- * 
- * 在Chapter01的上一层目录执行java Chapter01.CommandArgu happy new year
+ *
  */
 
 public class CommandArgu {

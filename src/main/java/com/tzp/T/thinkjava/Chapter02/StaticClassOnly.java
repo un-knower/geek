@@ -4,7 +4,7 @@ package com.tzp.T.thinkjava.Chapter02;
  * 
  * @author Administrator
  * 
- *         Entity array[] = new Entity[10]定仅仅义了10个引用，与C++要区分清楚
+ * Entity array[] = new Entity[10]定仅仅义了10个引用，与C++要区分清楚
  */
 
 class Entity {
