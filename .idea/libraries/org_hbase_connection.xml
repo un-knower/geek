@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.hbase.connection">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.hbase.connection.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
