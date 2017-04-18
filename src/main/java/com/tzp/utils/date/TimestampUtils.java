@@ -19,7 +19,7 @@ public class TimestampUtils {
      * @date:2016年5月31日 下午5:25:18
      *
      * @param value
-     * @param format
+     * @param value
      * @return
      */
     public static Timestamp string2Timestamp(String value){
